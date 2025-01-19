@@ -29,6 +29,7 @@
 		 "dischargeNotAllowed": false,
 		 "generator_autostart": false
 	},
+	"setpoint":{
 	"watt":1000
-	
+	}
 }
