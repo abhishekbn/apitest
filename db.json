@@ -31,5 +31,8 @@
 	},
 	"setpoint":{
 	"watt":1000
+	},
+	"configurations":{
+		"EM_OperatingMode":1
 	}
 }
