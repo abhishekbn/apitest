@@ -1,0 +1,32 @@
+{
+	"status":{
+		 "Apparent_output": 96,
+		 "BackupBuffer": "0",
+		 "BatteryCharging": false,
+		 "BatteryDischarging": false,
+		 "Consumption_W": 0,
+		 "Fac": 50.0239143371582,
+		 "FlowConsumptionBattery": false,
+		 "FlowConsumptionGrid": false,
+		 "FlowConsumptionProduction": false,
+		 "FlowGridBattery": false,
+		 "FlowProductionBattery": false,
+		 "FlowProductionGrid": false,
+		 "GridFeedIn_W": -3,
+		 "IsSystemInstalled": 1,
+		 "OperatingMode": "2",
+		 "Pac_total_W": 7,
+		 "Production_W": 0,
+		 "RSOC": 21,
+		 "Sac1": 96,
+		 "Sac2": null,
+		 "Sac3": null,
+		 "SystemStatus": "OnGrid",
+		 "Timestamp": "2020-03-26 17:10:06",
+		 "USOC": 12,
+		 "Uac": 238,
+		 "Ubat": 209,
+		 "dischargeNotAllowed": false,
+		 "generator_autostart": false
+	}
+}
