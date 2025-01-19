@@ -1,5 +1,4 @@
 {
-	"api":{
 	"status":{
 		 "Apparent_output": 96,
 		 "BackupBuffer": "0",
@@ -29,6 +28,7 @@
 		 "Ubat": 209,
 		 "dischargeNotAllowed": false,
 		 "generator_autostart": false
-	}
-	}
+	},
+	"watt":1000
+	
 }
